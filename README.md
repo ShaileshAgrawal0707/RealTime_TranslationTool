@@ -4,12 +4,12 @@
 **Echo Assist** is a real-time language translation tool designed to facilitate seamless communication between speakers of different languages. By integrating advanced speech recognition and synthesis, Echo Assist enables smooth conversations, allowing users to speak in their native language while understanding others in real-time. This tool is particularly useful in cross-cultural interactions, business meetings, travel scenarios, and educational environments.
 
 ## Contributors
-- **Team Deciphers**: Pulkit Ashara, Mayur Bhamare, Shailesh Agrawal
+- **Team Deciphers**: Pulkit Ashara, Mayur Bhamare, Tanishka Das
 - **Mentor**: Dr. Megha Trivedi
 
 
 ## Contact Information
-   - **For any queries, email us at**: tanishka.221513201@vcet.edu.in / pulkit.221143101@vcet.edu.in / mayur.221243102@vcet.edu.in / shailesh.221123109@vcet.edu.in 
+   - **For any queries, email us at**: shailesh.221123109@vcet.edu.in / tanishka.221513201@vcet.edu.in / pulkit.221143101@vcet.edu.in / mayur.221243102@vcet.edu.in /  
 
 ## Features
 - **Real-time Speech Recognition:** Accurately recognizes and transcribes spoken words.
